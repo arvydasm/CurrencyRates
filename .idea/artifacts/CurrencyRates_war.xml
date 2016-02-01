@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="CurrencyRates:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="CurrencyWebApp.war">
-      <element id="artifact" artifact-name="CurrencyRates:war exploded" />
-    </root>
-  </artifact>
-</component>
